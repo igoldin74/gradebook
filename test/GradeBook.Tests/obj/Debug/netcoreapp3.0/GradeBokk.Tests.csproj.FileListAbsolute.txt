@@ -1,0 +1,3 @@
+C:\Users\eli.goldin\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp3.0\GradeBokk.Tests.csprojAssemblyReference.cache
+C:\Users\eli.goldin\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp3.0\GradeBokk.Tests.AssemblyInfoInputs.cache
+C:\Users\eli.goldin\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp3.0\GradeBokk.Tests.AssemblyInfo.cs
